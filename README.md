@@ -1,8 +1,5 @@
-# FrankC
-my personal repository
+This is some text with a footnote[^1] right here.
 
-# 1849 change
+More content in the document.
 
-# A first-level heading
-## A second-level heading
-### A third-level heading
+[^1]: This is the footnote content at the bottom.
